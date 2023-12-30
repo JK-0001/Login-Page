@@ -9,5 +9,4 @@ To connect database first do these :-
 3. Install " Xampp control panel " from here --> https://www.apachefriends.org/download.html
 
 
-For more projects like this, you can check out my youtube channel - Jatin Khatri.
 Follow me on Instagram - jatinkhatri_19
